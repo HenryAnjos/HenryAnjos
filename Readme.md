@@ -42,7 +42,7 @@ Opa Amigo,como vai? Me chamo Henry Igidio dos Anjos, tenho 18 anos e sou da Zona
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryAnjos&layout=compact&theme=dark" 
   />
 
