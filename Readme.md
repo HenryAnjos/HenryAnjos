@@ -3,7 +3,7 @@
 
 **`Projeto de Dev. Full Stack`**
 
-Opa Amigo,como vai? Me chamo Henry Igidio dos Anjos, tenho 18 anos e sou da Zona Oeste de São Paulo. Concluí o ensino médio no ITB comitente ao técnico em Manutenção e Suporte de Computadores. Pretendo aprimorar meu back-end com python já que é uma linguagem que eu ja tive contato antes e posteriormente aprimorar a parte do front-end
+Opa Amigo,como vai? Me chamo Henry Igidio dos Anjos, tenho 18 anos e sou da Zona Oeste de São Paulo. Concluí o ensino médio no ITB comitente ao técnico em Manutenção e Suporte em Informatica. Pretendo aprimorar meu back-end com python já que é uma linguagem que eu ja tive contato antes e posteriormente aprimorar a parte do front-end
 
 
 ### 🤖 Linguagens e Tecnologias
